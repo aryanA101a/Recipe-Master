@@ -1,6 +1,7 @@
 # recipesmaster
 
 A small recipe app with great UI.
+
 ![Recipe App](preview.png)
 
 ## Getting Started
